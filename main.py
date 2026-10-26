@@ -1,2 +1,3 @@
 print("hello world")
-print("hi guys")
+for i in range(10):
+    print(i+i)
